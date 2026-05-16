@@ -1,0 +1,5 @@
+{
+  "name": "V1.94fast Glass Agent Visualizer",
+  "description": "A high-fidelity, interactive digital organism visualizer for automotive interfaces, simulating AI perception and states via glass-morphism and physics-based animation.",
+  "requestFramePermissions": []
+}
